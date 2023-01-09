@@ -1,0 +1,4 @@
+[17:01:30] [Info] [test]: info
+[17:01:30] [Warn] [test]: warn
+[17:01:30] [Error] [test]: err
+[17:01:30] [Fatal] [test]: fatal
